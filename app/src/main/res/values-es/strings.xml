@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El concurso</string>
+    <string name="plus_button">Más 1</string>
+    <string name="minus_button">Menos 1</string>
+    <string name="reset_button">Reiniciar</string>
+    <string name="language_button">Cambiar idioma</string>
+    <string name="counter_default">0</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Contest</string>
+    <string name="plus_button">Plus 1</string>
+    <string name="minus_button">Minus 1</string>
+    <string name="reset_button">Reset</string>
+    <string name="counter_default">0</string>
+</resources>
