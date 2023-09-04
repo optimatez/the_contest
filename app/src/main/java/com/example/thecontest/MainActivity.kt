@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         if (resources.configuration.orientation == Configuration.ORIENTATION_LANDSCAPE) {
-            setContentView(R.layout.activity_main_linear)
+            setContentView(R.layout.activity_main_linear_old)
             Log.d("contentView", "LinearView")
         } else {
             setContentView(R.layout.activity_main_constraint)
